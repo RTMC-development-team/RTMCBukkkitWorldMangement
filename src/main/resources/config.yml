@@ -1,0 +1,4 @@
+maximum worlds: 0 # 0 or lower means infinit
+
+alwaysloadedworlds: # A list of worlds that should always be loaded
+unremovableworlds: # A list of worlds that should never be removed

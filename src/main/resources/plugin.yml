@@ -1,0 +1,8 @@
+name: RTMCBukkitWorldManagement
+version: 0.1
+description: The RTMC Bukkit World Management plugin.
+author: STSc
+authors: [STSc]
+main: com.rushteamc.plugin.bukkit.WorldManagement.Plugin
+database: false
+depend: []
