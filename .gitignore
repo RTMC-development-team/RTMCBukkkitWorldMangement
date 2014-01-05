@@ -1,0 +1,17 @@
+*.class
+*~
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+
+# eclipse stuff #
+.project
+.classpath
+.settings/
+bin/
+
+# Maven stuff #
+dependency-reduced-pom.xml
